@@ -18,5 +18,6 @@ ssh -T git@github.com
 
 ### 新建项目 ###
 
-
+1. create a new repository
+2. 
 
