@@ -17,11 +17,13 @@ ssh -T git@github.com
 
 ```
 
-![image-20210429203620991](/Users/zhenjiewu/Library/Application Support/typora-user-images/image-20210429203620991.png)
 
 
+![image-20210429203620991](images/git/image-20210429203620991.png)
 
-### ![image-20210429221644622](/Users/zhenjiewu/Library/Application Support/typora-user-images/image-20210429221644622.png)新建项目 ###
+![image-20210429221619067](images/git/image-20210429221619067.png)
+
+### 新建项目 ###
 
 **简单的案例**
 
@@ -36,7 +38,7 @@ git commit -m "First Commit"
 git push
 ```
 
-![image-20210429222739114](/Users/zhenjiewu/Library/Application Support/typora-user-images/image-20210429222739114.png)
+![image-20210429222739114](images/git/image-20210429222739114.png)
 
 
 
@@ -52,6 +54,9 @@ git init
 
 ```
 git clone [url]
+git status [filename] #查看文件状态
+git commit -m "new note for git"
+git push
 ```
 
 
